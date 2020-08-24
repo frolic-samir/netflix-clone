@@ -1,0 +1,40 @@
+export const requestUrl = {
+  fetchAction:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=28",
+  fetchAdventure:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=12",
+  fetchAnimation:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=16",
+  fetchComedy:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=35",
+  fetchCrime:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=80",
+  fetchDocumentary:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=99",
+  fetchDrama:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=18",
+  fetchFamily:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=10751",
+  fetchFantasy:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=14",
+  fetchHistory:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=36",
+  fetchHorror:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=27",
+  fetchMusic:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=10402",
+  fetchMystery:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=9648",
+  fetchRomance:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=10749",
+  "fetchScience Fiction":
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=878",
+  "fetchTV Movie":
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=10770",
+  fetchThriller:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=53",
+  fetchWar:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=10752",
+  fetchWestern:
+    "discover/movie?api_key=cd824fd224256a67f14eef590b8998f5&with_genres=37",
+};

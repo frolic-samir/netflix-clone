@@ -1,0 +1,32 @@
+.row {
+  margin-left: 10px;
+}
+.row h3 {
+  margin: 0;
+  padding-bottom: 7px;
+}
+.row_posters {
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  padding: 7px;
+}
+
+.row_posters::-webkit-scrollbar {
+  display: none;
+}
+
+.row_poster {
+  object-fit: contain;
+  height: 20vh;
+  margin-right: 10px;
+  transition: transform 450ms;
+}
+
+.row_poster:hover {
+  transform: scale(1.06);
+}
+
+.row_posterLarge {
+  height: 30vh;
+}

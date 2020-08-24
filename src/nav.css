@@ -1,0 +1,25 @@
+.nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 60px;
+  z-index: 1;
+  transition: all ease-in 0.35s;
+}
+
+.nav-logo {
+  width: 100px;
+  position: fixed;
+}
+
+.nav-black {
+  background-color: #111;
+}
+
+.fb-logo {
+  position: fixed;
+  padding-top: 12px;
+  right: 4px;
+  width: 45px;
+  opacity: 0.9;
+}
